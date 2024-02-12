@@ -115,7 +115,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ship-1.tmj#entry-from-ship-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-ship-1#entry-from-ship-2"
                         }],
                  "rotation":0,
                  "type":"area",

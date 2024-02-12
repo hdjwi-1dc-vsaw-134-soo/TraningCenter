@@ -1878,7 +1878,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-library"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1895,7 +1895,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"orientation-to-colearning.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-orientation-to-colearning"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1912,7 +1912,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ocean.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-ocean"
                         }],
                  "rotation":0,
                  "type":"area",

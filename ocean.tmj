@@ -357,7 +357,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ship-1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-ship-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -374,7 +374,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"training-center.tmj#entry-from-ocean"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-training-center#entry-from-ocean"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -391,7 +391,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"training-center.tmj#entry-from-ocean"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/100-roads-training-center#entry-from-ocean"
                         }],
                  "rotation":0,
                  "type":"area",
