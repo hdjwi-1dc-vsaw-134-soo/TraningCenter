@@ -3006,7 +3006,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Training Center"
+         "value":"100 Roads Training Center"
         }, 
         {
          "name":"script",

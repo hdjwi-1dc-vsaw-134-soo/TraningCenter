@@ -465,7 +465,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Ocean"
+         "value":"100 Roads Ocean"
         }, 
         {
          "name":"script",
